@@ -21,7 +21,7 @@
     "@angular/router": "^9.0.4",
     "bootstrap": "^4.6.1",
     "core-js": "^3.6.4",
-    "@fortawesome/fontawesome-free": "^6.1.1",
+    "@fortawesome/fontawesome-free": "^6.7.2",
     "jquery": "^3.5.0",
     "ng2-timeago": "^1.0.7",
     "particles.js": "^2.0.0",
